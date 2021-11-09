@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KiwiPrograms
-- 👀 I’m interested in Star Wars
+- 👋 Hi, I’m @MateoGargano
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me: mateogarganogh@mail.com
+- 📫 How to reach me: mateogargano@gmail.com
 
 <!---
 KiwiPrograms/KiwiPrograms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
